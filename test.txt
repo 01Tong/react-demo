@@ -5,6 +5,7 @@ class Square extends React.Component {
       value:'click' ,
     };
   }
+  //第一行注释
 
   render() {
     return (
