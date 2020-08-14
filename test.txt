@@ -6,6 +6,7 @@ class Square extends React.Component {
     };
   }
   //第一行注释
+  //第二行注释
 
   render() {
     return (
